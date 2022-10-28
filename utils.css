@@ -1,0 +1,28 @@
+
+.text-center{
+    text-align: center;
+    margin: 15px;
+    padding: 17px;
+}
+.bg-red{
+    background-color: rgb(54, 53, 53);
+    height: 420px;
+    width: 300px;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.items-center{
+    align-items: center;
+}
+.equal{
+    background-color: rgb(255, 196, 0);
+}
